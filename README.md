@@ -34,3 +34,7 @@ Given your previous results, now consider when this dataset might be more or les
 - Usability for high spatial resolution applications
 
 Give some examples of user groups who might benefit most from application of this information, and some examples of areas where the data might be most relevant.
+
+
+### 4. Prepare dataset overview for class presentation
+Prepare a brief (~3-4 minute) presentation for class Wednesday, November 3 summarizing the results of part 1-3 above!
